@@ -1,0 +1,6 @@
+Created on 2/15/2018 by Alexander Turner
+- Add name of the current file somewhere on the screen, that way you know what file you selected
+- Add the ability to exit window without always reopening
+- Add java applet image
+- Change Java name from java to something else (when opened in Mac, probably also with Windows and Linux)
+- Separate Classes into appropriate classes
