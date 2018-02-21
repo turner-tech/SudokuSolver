@@ -1,4 +1,4 @@
-package sudokusolver;
+package src.sudokusolver;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -283,7 +283,7 @@ public class SudokuSolverController implements Initializable {
      public void openSolveWindow() throws IOException {
         Stage stage = new Stage();
         Parent root = FXMLLoader.load(getClass().getResource("FXML_SudokuSolver.fxml"));
-        stage.setTitle("Sodoku Solver: Solver");
+        stage.setTitle("Sudoku Solver: Solver");
         //stage.initStyle(StageStyle.UNDECORATED);
         Scene scene = new Scene(root);
         
@@ -485,7 +485,7 @@ public class SudokuSolverController implements Initializable {
     //Saves a file based on what is on the board and what name is inserted into the textField
     public void write() throws IOException{
         try (Writer writer = new BufferedWriter(new OutputStreamWriter(
-              new FileOutputStream("puzzles/solutions/" + textField.getText()+".csv"), "utf-8"))) {
+              new FileOutputStream("src/sudokusolver/puzzles/solutions/" + textField.getText()+".csv"), "utf-8"))) {
             for (int j = 0; j < 9; j++){  
                 for (int i = 0; i < 9; i++){
                 

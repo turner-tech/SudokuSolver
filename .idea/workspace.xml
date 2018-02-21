@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SudokuSolver:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23eed7c0-218e-473e-8dc4-365277c6ea8d" name="Default" comment="Made the project run within IntelliJ Environment">
+      <change beforePath="$PROJECT_DIR$/build/classes/Easy # 01.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/classes/sudokusolver/FXML_MainMenu.fxml" afterPath="$PROJECT_DIR$/build/classes/sudokusolver/FXML_MainMenu.fxml" />
+      <change beforePath="$PROJECT_DIR$/build/classes/sudokusolver/FXML_SudokuSolver.fxml" afterPath="$PROJECT_DIR$/build/classes/sudokusolver/FXML_SudokuSolver.fxml" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" afterPath="$PROJECT_DIR$/nbproject/project.properties" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SudokuSolver_jar/SudokuSolver.jar" afterPath="$PROJECT_DIR$/out/artifacts/SudokuSolver_jar/SudokuSolver.jar" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/Easy # 01.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/out/production/SudokuSolver/META-INF/MANIFEST.MF" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/documentation/Improvements.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/PuzzleUsage.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Easy # 02.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Easy # 03.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Easy # 04.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Easy # 05.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Easy # 06.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Easy # 07.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Easy # 08.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Hard # 01.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Hard # 02.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Hard # 03.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Hard # 04.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Hard # 05.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Hard # 06.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Hard # 07.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Hard # 08.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Medium # 01.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Medium # 02.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Medium # 03.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Medium # 04.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Medium # 05.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Medium # 06.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Medium # 07.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/examples/Medium # 08.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Easy # 01 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Easy # 02 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Easy # 03 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Easy # 04 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Easy # 05 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Easy # 06 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Easy # 07 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Easy # 08 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Hard # 01 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Hard # 02 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Hard # 03 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Hard # 04 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Hard # 05 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Hard # 06 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Hard #06 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Medium # 01 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Medium # 02 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Medium # 03 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Medium # 04 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Medium # 05 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Medium # 06 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Medium # 07 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/puzzles/solutions/Medium # 08 Solution.csv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/sudokusolver/Easy # 01.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/sudokusolver/FXML_MainMenu.fxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/sudokusolver/FXML_SudokuSolver.fxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/sudokusolver/MainMenu$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/sudokusolver/MainMenu.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/sudokusolver/SudokuSolverController$GridNode.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/sudokusolver/SudokuSolverController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/SudokuSolver/sudokusolver/TheLauncher.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/PuzzleUsage.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/PuzzleUsage.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Easy # 01.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Easy # 01.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Easy # 02.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Easy # 02.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Easy # 03.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Easy # 03.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Easy # 04.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Easy # 04.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Easy # 05.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Easy # 05.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Easy # 06.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Easy # 06.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Easy # 07.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Easy # 07.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Easy # 08.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Easy # 08.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Hard # 01.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Hard # 01.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Hard # 02.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Hard # 02.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Hard # 03.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Hard # 03.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Hard # 04.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Hard # 04.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Hard # 05.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Hard # 05.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Hard # 06.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Hard # 06.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Hard # 07.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Hard # 07.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Hard # 08.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Hard # 08.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Medium # 01.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Medium # 01.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Medium # 02.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Medium # 02.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Medium # 03.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Medium # 03.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Medium # 04.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Medium # 04.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Medium # 05.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Medium # 05.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Medium # 06.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Medium # 06.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Medium # 07.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Medium # 07.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/examples/Medium # 08.txt" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/examples/Medium # 08.txt" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Easy # 01 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Easy # 01 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Easy # 02 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Easy # 02 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Easy # 03 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Easy # 03 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Easy # 04 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Easy # 04 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Easy # 05 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Easy # 05 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Easy # 06 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Easy # 06 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Easy # 07 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Easy # 07 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Easy # 08 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Easy # 08 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Hard # 01 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Hard # 01 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Hard # 02 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Hard # 02 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Hard # 03 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Hard # 03 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Hard # 04 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Hard # 04 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Hard # 05 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Hard # 05 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Hard # 06 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Hard # 06 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Hard #06 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Hard #06 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Medium # 01 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Medium # 01 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Medium # 02 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Medium # 02 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Medium # 03 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Medium # 03 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Medium # 04 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Medium # 04 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Medium # 05 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Medium # 05 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Medium # 06 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Medium # 06 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Medium # 07 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Medium # 07 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/puzzles/solutions/Medium # 08 Solution.csv" afterPath="$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/Medium # 08 Solution.csv" />
+      <change beforePath="$PROJECT_DIR$/src/sudokusolver/Easy # 01.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/sudokusolver/FXML_MainMenu.fxml" afterPath="$PROJECT_DIR$/src/sudokusolver/FXML_MainMenu.fxml" />
+      <change beforePath="$PROJECT_DIR$/src/sudokusolver/FXML_SudokuSolver.fxml" afterPath="$PROJECT_DIR$/src/sudokusolver/FXML_SudokuSolver.fxml" />
+      <change beforePath="$PROJECT_DIR$/src/sudokusolver/MainMenu.java" afterPath="$PROJECT_DIR$/src/sudokusolver/MainMenu.java" />
+      <change beforePath="$PROJECT_DIR$/src/sudokusolver/TheLauncher.java" afterPath="$PROJECT_DIR$/src/sudokusolver/TheLauncher.java" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="TheLauncher.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sudokusolver/TheLauncher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FXML_SudokuSolver.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sudokusolver/FXML_SudokuSolver.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SudokuSolverController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sudokusolver/SudokuSolverController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="45" column="4" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+              <folding>
+                <element signature="e#76504#76505#0" expanded="true" />
+                <element signature="e#76538#76539#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>write</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="turner749 &lt;turner.k.alex@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/FXML_SudokuSolver.fxml" />
+        <option value="$PROJECT_DIR$/src/sudokusolver/FXML_SudokuSolver.fxml" />
+        <option value="$PROJECT_DIR$/src/sudokusolver/SudokuSolverController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1366" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SudokuSolver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SudokuSolver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SudokuSolver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SudokuSolver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SudokuSolver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SudokuSolver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sudokusolver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SudokuSolver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SudokuSolver" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sudokusolver" type="462c0819:PsiDirectoryNode" />
+              <item name="puzzles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="src.sudokusolver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/sudokusolver" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="src.sudokusolver.TheLauncher" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SudokuSolver" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="sudokusolver.TheLauncher" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SudokuSolver" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23eed7c0-218e-473e-8dc4-365277c6ea8d" name="Default" comment="" />
+      <created>1519184792986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519184792986</updated>
+      <workItem from="1519184799695" duration="299000" />
+      <workItem from="1519185133422" duration="3927000" />
+    </task>
+    <task id="LOCAL-00001" summary="Made the project run within IntelliJ Environment">
+      <created>1519190453119</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1519190453119</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4226000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1366" height="745" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32986626" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986626" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986626" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32986626" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Made the project run within IntelliJ Environment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made the project run within IntelliJ Environment" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="3096" column="0" lean-forward="false" selection-start-line="3096" selection-start-column="0" selection-end-line="3096" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sudokusolver/TheLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sudokusolver/FXML_SudokuSolver.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sudokusolver/puzzles/solutions/.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sudokusolver/SudokuSolverController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="45" column="4" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+          <folding>
+            <element signature="e#76504#76505#0" expanded="true" />
+            <element signature="e#76538#76539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SudokuSolver:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SudokuSolver</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

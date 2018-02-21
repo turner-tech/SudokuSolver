@@ -1,4 +1,4 @@
-package sudokusolver;
+package src.sudokusolver;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

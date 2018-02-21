@@ -1,5 +1,5 @@
 
-package sudokusolver;
+package src.sudokusolver;
 
 import java.io.BufferedWriter;
 import java.io.File;
