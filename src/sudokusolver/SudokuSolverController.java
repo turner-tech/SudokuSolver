@@ -129,7 +129,7 @@ public class SudokuSolverController implements Initializable {
         FileChooser fileChooser = new FileChooser();
         fileChooser.setTitle("Open Resource File");
         fileChooser.setTitle("Pick a Text File");
-        fileChooser.setInitialDirectory(new File(System.getProperty("user.dir"))
+        fileChooser.setInitialDirectory(new File(System.getProperty("user.dir"))    //"user.dir"
         );                 
         fileChooser.getExtensionFilters().addAll(
         //new FileChooser.ExtensionFilter("Text Files", "*.*"),
@@ -485,7 +485,7 @@ public class SudokuSolverController implements Initializable {
     //Saves a file based on what is on the board and what name is inserted into the textField
     public void write() throws IOException{
         try (Writer writer = new BufferedWriter(new OutputStreamWriter(
-              new FileOutputStream(textField.getText()+".csv"), "utf-8"))) {
+              new FileOutputStream("puzzles/solutions/" + textField.getText()+".csv"), "utf-8"))) {
             for (int j = 0; j < 9; j++){  
                 for (int i = 0; i < 9; i++){
                 
